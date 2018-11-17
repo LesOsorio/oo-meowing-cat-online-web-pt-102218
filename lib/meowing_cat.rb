@@ -5,4 +5,4 @@ end
 
 def maru.meow
   puts "meow!"
-end 
+end
