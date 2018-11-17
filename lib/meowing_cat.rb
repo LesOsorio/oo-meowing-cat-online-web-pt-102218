@@ -7,4 +7,3 @@ def meow
   puts "meow!"
 end
 
-maru.meow
